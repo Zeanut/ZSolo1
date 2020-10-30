@@ -1,0 +1,16 @@
+:root{
+    --mainColor: lightskyblue;
+    --secondaryColor:rgb(26, 162, 246);
+
+    --borderColor:darkgray;
+
+    --mainText:white;
+    --secondaryText:#4b5156;
+
+    --themeDotBorder:#fff;
+
+    --previewBG:rgb(25, 39, 52, 0.8);
+    --previewShadow:#111921;
+
+    --buttonColor: darkblue;
+}

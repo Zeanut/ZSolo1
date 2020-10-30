@@ -1,0 +1,16 @@
+:root{
+    --mainColor: lightcoral;
+    --secondaryColor:rgb(240, 158, 158);
+
+    --borderColor:rgb(122, 121, 121);
+
+    --mainText:white;
+    --secondaryText:#b3a5b1;
+
+    --themeDotBorder:#fff;
+
+    --previewBG:rgb(94, 44, 44);
+    --previewShadow:rgb(226, 95, 95);
+
+    --buttonColor: rgb(92, 52, 52);
+}
